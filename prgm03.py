@@ -1,5 +1,6 @@
 import numpy as np
 
+
 print("Matrix A")
 matrix_a = np.array([[1, 2], [3, 4]])
 print(matrix_a)
